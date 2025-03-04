@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "queue": "c",
+        "stack": "c"
+    },
+    "code-runner.runInTerminal": true
+}
