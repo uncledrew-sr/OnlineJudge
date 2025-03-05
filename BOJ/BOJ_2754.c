@@ -49,6 +49,6 @@ int main(){
     else if(grade[0]=='F'){
         score = 0.0;
     }
-    printf("%.1lf", score); // .lf는 double에 사용
+    printf("%.1lf", score); // .f는 float .lf는 double에 사용
     return 0;
 }
